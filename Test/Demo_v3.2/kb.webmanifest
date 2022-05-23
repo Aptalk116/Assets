@@ -8,21 +8,21 @@
     "theme_color" : "#40aa6d",
     "icons" : [
         {
-            "src" : "/Icons/android-icon-192x192.png",
+            "src" : "https://cdn.jsdelivr.net/gh/Aptalk116/Assets@main/Icons/android-icon-192x192.png",
             "sizes" : "192x192",
             "type" : "image/png",
             "density" : "4.0",
             "purpose" : "any maskable"
         },
         {
-            "src" : "/Icons/apple-icon-144x144.png",
+            "src" : "https://cdn.jsdelivr.net/gh/Aptalk116/Assets@main/Icons/apple-icon-144x144.png",
             "sizes" : "144x144",
             "type" : "image/png",
             "density" : "3.0",
             "purpose" : "any maskable"
         },
         {
-            "src" : "/Icons/ms-icon-144x144.png",
+            "src" : "https://cdn.jsdelivr.net/gh/Aptalk116/Assets@main/Icons/ms-icon-144x144.png",
             "sizes" : "144x144",
             "type" : "image/png",
             "density" : "3.0",
