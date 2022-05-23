@@ -3,7 +3,7 @@
     "short_name" : "Krishna Bani Lite",
     "description" : "Krishna Bani official Web App",
     "display" : "standalone",
-    "start_url" : "/",
+    "start_url" : "https://ekrishnabani.blogspot.com",
     "background-color" : "#85eda2",
     "theme_color" : "#40aa6d",
     "icons" : [
@@ -18,14 +18,14 @@
             "src" : "/Icons/apple-icon-144x144.png",
             "sizes" : "144x144",
             "type" : "image/png",
-            "density" : "4.0",
+            "density" : "3.0",
             "purpose" : "any maskable"
         },
         {
             "src" : "/Icons/ms-icon-144x144.png",
             "sizes" : "144x144",
             "type" : "image/png",
-            "density" : "4.0",
+            "density" : "3.0",
             "purpose" : "any maskable"
         },
     ]
