@@ -1,0 +1,32 @@
+{
+    "name" : "Krishna Bani",
+    "short_name" : "Krishna Bani Lite",
+    "description" : "Krishna Bani official Web App",
+    "display" : "standalone",
+    "start_url" : "/",
+    "background-color" : "#85eda2",
+    "theme_color" : "#40aa6d",
+    "icons" : [
+        {
+            "src" : "/Icons/android-icon-192x192.png",
+            "sizes" : "192x192",
+            "type" : "image/png",
+            "density" : "4.0",
+            "purpose" : "any maskable"
+        },
+        {
+            "src" : "/Icons/apple-icon-144x144.png",
+            "sizes" : "144x144",
+            "type" : "image/png",
+            "density" : "4.0",
+            "purpose" : "any maskable"
+        },
+        {
+            "src" : "/Icons/ms-icon-144x144.png",
+            "sizes" : "144x144",
+            "type" : "image/png",
+            "density" : "4.0",
+            "purpose" : "any maskable"
+        },
+    ]
+}
