@@ -27,6 +27,6 @@
             "type" : "image/png",
             "density" : "3.0",
             "purpose" : "any maskable"
-        },
+        }
     ]
 }
